@@ -46,6 +46,9 @@ npm run dev
 
 O servidor começará rodando na porta padrão (geralmente `http://localhost:5173`).
 
+## 🔗 Acesse o Projeto
+
+👉 **Ver o projeto ao vivo:** [Clique Aqui](https://vertice-store.vercel.app/)
 
 ## 📂 Estrutura de Diretórios 
 
