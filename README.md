@@ -1,4 +1,4 @@
-# 🛍️ Modern E-Commerce UI
+# 🛍️ Vértice Store - Modern E-Commerce UI
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-19.2-blue.svg?style=for-the-badge&logo=react" alt="React" />
@@ -31,8 +31,8 @@ A stack foi escolhida a dedo para oferecer a melhor *Developer Experience* e *Pe
 Siga os passos abaixo, ou copie e rode as instruções no seu terminal para rodar o projeto localmente:
 
 ```bash
-# 1. Clone este repositório (Substitua pela sua URL ao publicar no Github)
-git clone https://github.com/SeuUsuario/ecommerce.git
+# 1. Clone este repositório 
+git clone https://github.com/Mkael-doug/vertice-store.git
 
 # 2. Navegue até o diretório do projeto
 cd ecommerce
