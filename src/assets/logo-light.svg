@@ -1,0 +1,18 @@
+<svg width="250" height="80" viewBox="0 0 250 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="brandGradientLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FEA928" />
+      <stop offset="100%" stop-color="#ED8900" />
+    </linearGradient>
+  </defs>
+
+  <path d="M10 20L20 60H60L70 20H10Z" fill="url(#brandGradientLight)"/>
+  <path d="M20 30L30 50L40 30" stroke="#050118" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 20C10 15 15 10 20 10H60C65 10 70 15 70 20H10Z" fill="#050118"/>
+  <path d="M45 40L60 55" stroke="#F5F3FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M52 55H60V47" stroke="#F5F3FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="85" y="48" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#ED8900">VÉRTICE</text>
+  
+  <text x="87" y="66" font-family="Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="4" fill="#A1A1A1">STORE &amp; SERVICES</text>
+</svg>
