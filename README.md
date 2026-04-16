@@ -49,6 +49,8 @@ O servidor começará rodando na porta padrão (geralmente `http://localhost:517
 ## 🔗 Acesse o Projeto
 
 👉 **Ver o projeto ao vivo:** [Clique Aqui](https://vertice-store.vercel.app/)
+<br/>
+<br/>
 
 ## 📂 Estrutura de Diretórios 
 
